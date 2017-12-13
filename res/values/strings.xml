@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Random Test</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_first">FirstActivity</string>
+    <string name="title_activity_third">ThirdActivity</string>
+    <string name="title_activity_forth">ForthActivity</string>
+    <string name="title_activity_fifth">FifthActivity</string>
+    <string name="title_activity_sixth">SixthActivity</string>
+    <string name="title_activity_second">SecondActivity</string>
+
+</resources>
